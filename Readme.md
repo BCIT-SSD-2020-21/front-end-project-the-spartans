@@ -7,13 +7,13 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>HTML with the bootstrap</li>
 <li>CSS with SASS</li>
 <li>Javascript with jQuery</li><br><br>
-<ul>Abhshek- Prototype(Figma/Moqups)</ul>
-<ul<Abhishek - Owen(HTML & CSS)</ul>
-<ul>J-D - Anthony(Javascript)</ul>
-<ul>Kirill - Content and helping Javascript</ul>
+<li>Abhshek- Prototype(Figma/Moqups)</li>
+<li>Abhishek - Owen(HTML & CSS)</li>
+<li>J-D - Anthony(Javascript)</li>
+<li>Kirill - Content and helping Javascript</li>
+<hr>
 
 Content- Pictures, specification of items, Categories and sub-categories of items
-
 <b>Features</b>
 <li>Home page header require logos and search bar</li>
 <li>Login account</li>
