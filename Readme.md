@@ -1,5 +1,5 @@
  <h1>ELECTROSPARKS</h1>
-The website will be generally for the electronics items. In the website, there will be major electronics items which will serve the purpose of customers to purchase items from there.
+This webpage is an e-commerce site selling electronics items. In the website, there will be major electronics items which will serve the purpose of customers to purchase items from there.
 
 <h3>SPECIFIC ROLES to the team</h3>:
 <li>Prototype (Figma)</li> 
