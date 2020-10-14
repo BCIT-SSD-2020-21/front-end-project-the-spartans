@@ -13,7 +13,7 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>Kirill - Content and helping Javascript</li>
 <hr>
 
-Content- Pictures, specification of items, Categories and sub-categories of items
+Content- Company Logo, Product Image, Specification of Product, Categories and sub-categories of Products
 <b>Features</b>
 <li>Home page header require logos and search bar</li>
 <li>Login account</li>
