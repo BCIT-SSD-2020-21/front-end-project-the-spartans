@@ -1,6 +1,6 @@
  <h1>ELECTROSPARKS</h1>
 This webpage is an e-commerce site selling electronics items. In the website, there will be major electronics items which will serve the purpose of customers to purchase items from there.
-
+<hr>
 <h3>SPECIFIC ROLES to the team</h3>
 <li>Prototype (Figma)</li> 
 <li>Content</li>
@@ -9,7 +9,7 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>Javascript with jQuery</li><br><br>
 <ul>Abhshek- Prototype(Figma/Moqups)</ul>
 <ul<Abhishek - Owen(HTML & CSS)</ul>
-<ul>-D - Anthony(Javascript)</ul>
+<ul>J-D - Anthony(Javascript)</ul>
 <ul>Kirill - Content and helping Javascript</ul>
 
 Content- Pictures, specification of items, Categories and sub-categories of items
