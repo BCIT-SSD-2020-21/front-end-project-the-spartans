@@ -29,5 +29,4 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>FAQ's</li>
 <li>COVID-19 link</li>
 <li>Social Media Links</li>
-<li>Company Logo</li><br>
-<img src = "Prototype for E-CommerceSignUp.png" alt = "prototype pic">
+<li>Company Logo</li>
