@@ -3,9 +3,9 @@
        1.2  Laptops
        1.3  Accessories
 2.  Mobile Phones a
-       1.1  iPhones
-       1.2  Android Phones
-       1.3  Phone accessories
+       2.1  iPhones
+       2.2  Android Phones
+       2.3  Phone accessories
 3.  Tablets
        3.1  Apple tablets
        3.2  Android tablets
