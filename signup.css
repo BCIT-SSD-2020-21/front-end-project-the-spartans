@@ -1,0 +1,55 @@
+
+main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    background-color: rgb(77, 74, 74);
+    box-sizing: border-box;
+    padding-left: 35%;
+}
+
+.input-group{
+    align-self: center;
+    margin: 25px 0;
+    position: relative;
+}
+
+.input-group input{
+    width: 300px;
+    padding: 15px;
+    background-color: rgba(255,255,255,0.5);
+    color: #111;
+    outline: cornsilk;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    position: absolute;
+    left: 15px;
+    top: 50%; 
+    transform: translateY(-50%);
+    color: #111;
+    pointer-events: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label span{
+    display: inline-block;
+    transition: transform 0.2s, color 0.3s;
+}
+
+input:focus + label span,
+input:not(:placeholder-shown) + label span{
+    transform: translateY(-38px);
+    color: #fff;
+}
+
+#submit{
+    width: 100px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
