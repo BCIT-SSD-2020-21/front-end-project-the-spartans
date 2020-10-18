@@ -1,7 +1,7 @@
 1. Computers and accessories
        1.1  Desktops
        1.2  Laptops
-       1.3  Accessories
+       1.3  Accessories and components
 2.  Mobile Phones a
        2.1  iPhones
        2.2  Android Phones
