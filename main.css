@@ -42,12 +42,17 @@ nav{
     padding-right: 2%px;
 }
 
-.main-options logo1 , logo2{
+ #logo1{
     justify-content: right;
     padding-left: 1%;
     padding-right: 1%;
 }
 
+#logo2{
+    margin-left: 4%;
+    padding-left: 4%;
+    padding-right: 1%;
+}
 
 .nav-list{
     display: flex;
@@ -134,4 +139,43 @@ nav{
 #hamburger-toggle:checked ~ .hamburger .bar::before{transform: rotate(45deg);}
 #hamburger-toggle:checked ~ .hamburger .bar{ background-color: transparent;}
 #hamburger-toggle:checked ~ .hamburger .bar::after{transform: rotate(-45deg);}
+}
+
+.sidenav{
+    margin: 5px;
+    padding: 5px;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    background-color: #f1f1f1;
+    overflow: auto;
+}
+
+.sidenav a, .dropdown-btn{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    outline:none;
+    cursor: pointer;
+}
+
+.sidebar a:hover:not(.active){
+    background-color: #555;
+    color: darkgray;
+}
+
+.active{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.fa-caret-down{
+    padding-left: 20px;
+    padding-right: 8px;
 }

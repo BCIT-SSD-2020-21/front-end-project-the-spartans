@@ -13,7 +13,7 @@ main{
   
   /* form design */
   
-  form {
+  #signuppage{
     text-align: center;
     border: 1px solid #4A4A4A;
     padding: 30px;
@@ -87,7 +87,7 @@ main{
   
   /* button styling */
   
-  button {
+  #submit1 {
     background: transparent;
     color: #F0F0F0;
     border: 2px solid #F0F0F0;
@@ -103,7 +103,7 @@ main{
       transition: all 0.4s;
   }
   
-  button:hover, button:focus {
+  #submit1:hover, #submit1:focus {
     background-color: white;
     color: #333333;
   }
