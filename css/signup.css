@@ -18,6 +18,12 @@ main{
     border: 1px solid #4A4A4A;
     padding: 30px;
   }
+
+  #signinpage{
+    text-align: center;
+    border: 1px solid #4A4A4A;
+    padding: 30px;
+  }
   
   label {
     display: block;
@@ -106,4 +112,9 @@ main{
   #submit1:hover, #submit1:focus {
     background-color: white;
     color: #333333;
+  }
+
+  #signin{
+    padding-left: 50px;
+    margin-top: 5px;
   }
