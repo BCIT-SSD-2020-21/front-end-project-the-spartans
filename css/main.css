@@ -53,7 +53,7 @@ nav{
     padding-left: 4%;
     padding-right: 1%;
 }
-
+ 
 .nav-list{
     display: flex;
     list-style: none;
@@ -81,6 +81,7 @@ nav{
     cursor: pointer;
     position: absolute;
     left: 25px;
+    z-index: 101;
 }
 
 .hamburger .bar{
@@ -104,7 +105,7 @@ nav{
 
 @media (max-width: 600px){
     .nav-list{
-        position: absolute;
+        position: fixed;
         top: 0; left: 0;
         width: 100%; height: 100%;
         background-color: cornflowerblue;
@@ -113,7 +114,7 @@ nav{
         justify-content: center;
         transform: translateX(-100%);
         transition: transform 0.3s;
-        z-index: 1000;
+        z-index: 100;
     }
 
 .nav-list li{margin: 10px 0;}
@@ -133,7 +134,8 @@ nav{
 
 .hamburger{
     display: flex;
-    z-index: 999;
+    position: fixed;
+    z-index: 101;
 }
 
 #hamburger-toggle:checked ~ .nav-list{transform: none;}
