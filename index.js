@@ -23,12 +23,12 @@ var x = document.getElementById("myImg");
 
 var Cart = [
      new product("iphone", 1200,"some img", "cool phone"),
-     new product("note20 ultra", "some other img", "big phone")
+     new product("note20 ultra", 1400, "some other img", "big phone")
 ];
 
 function addCart(Cart){
      //get item from which add to cart button was clicked
-     var item = new product("note20", "some other img", "shit phone");
+     var item = new product("note20", 1000, "some other img", "shit phone");
      Cart.push(item);
 }
 
@@ -41,7 +41,7 @@ function listCart(Cart){
 function calcTotal(Cart){
      var total = 0;
      for(var i = 0; i < Cart.length(); i++){
-          total += Cart.price[];
+          total += Cart.price[i];
      }
      return total;
 }
