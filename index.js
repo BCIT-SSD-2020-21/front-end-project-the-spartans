@@ -26,16 +26,22 @@ var Cart = [
      new product("note20 ultra", "some other img", "big phone")
 ];
 
-function listCart(cart){
-     for(var i = 0; i < cart.length(); i++){
+function addCart(Cart){
+     //get item from which add to cart button was clicked
+     var item = new product("note20", "some other img", "shit phone");
+     Cart.push(item);
+}
+
+function listCart(Cart){
+     for(var i = 0; i < Cart.length(); i++){
           //use cart.imgUrl and cart.price to display and some html to format
      }
 }
 
-function calcTotal(cart){
+function calcTotal(Cart){
      var total = 0;
-     for(var i = 0; i < cart.length(); i++){
-          total += cart.price[];
+     for(var i = 0; i < Cart.length(); i++){
+          total += Cart.price[];
      }
      return total;
 }
@@ -112,11 +118,11 @@ $("#search-criteria").on("keyup", function() {
         });
     });        
 });​
+
 OPTION 2:
 var text ="some name";
 var search = "some";
 
-OPTION 3:
 if (text.indexOf(search)!=-1) {
 
     // do someting with found item
