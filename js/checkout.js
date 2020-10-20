@@ -6,8 +6,11 @@ function product(name, price,img,info){
      this.info = info;
 }
 
-//will grab img from page to be used for product object
-var x = document.getElementById("myImg");
+//will grab info needed for the product object from page
+var name = document.getElementById("product name");
+var price = document.getElementById("product price");
+var img = document.getElementById("product img");
+var info = document.getElementById("product info");
 
 //creation of cart array to hold products
 var Cart = [
