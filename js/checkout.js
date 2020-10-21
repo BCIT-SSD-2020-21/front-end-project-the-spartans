@@ -12,7 +12,7 @@ var price = document.getElementById("product price");
 var img = document.getElementById("product img");
 var info = document.getElementById("product info");
 
-//creation of cart array to hold products
+//creation of cart array to hold productsß
 var Cart = [
      //creation of products
      new product("iphone", 1200,"some img", "cool phone"),
@@ -30,6 +30,7 @@ $("add-to-cart-button").on("click", function addCart(Cart){
 function listCart(Cart){
      for(var i = 0; i < Cart.length(); i++){
           //use cart.imgUrl and cart.price to display and some html to format
+
      }
 }
 
