@@ -1,3 +1,8 @@
+//https://www.jamesqquick.com/blog/build-a-javascript-search-bar
+//https://codepen.io/jamesqquick/pen/XWJxBQv
+//https://www.w3schools.com/howto/howto_js_filter_elements.asp
+
+
 //jquery keyup() method
 
 //search function with just javascript

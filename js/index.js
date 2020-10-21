@@ -4,7 +4,7 @@ Cart = [];
 function product(name, price,img,){
      this.name = name;
      this.price = price;
-     this.imgUrl = img;
+     this.img = img;
 }
 
 //creation of cart array to hold products
@@ -20,6 +20,27 @@ $(".add2cart-btn").on("click", function addCart(Cart){
      
      //get item from which add to cart button was clicked
      var item = new product(name,price,img);
-     Cart.push(item);
+     //Cart.push(item);
      console.log("Item info be: "+item.name+" "+item.price+", "+item.img)
 })
+
+//display everything in cart
+function listCart(Cart){
+     for(var i = 0; i < Cart.length(); i++){
+          //use cart.imgUrl and cart.price to display and some html to format
+
+     }
+}
+
+//calculate total of everything in cart
+function calcTotal(Cart){
+     var total = 0;
+     for(var i = 0; i < Cart.length(); i++){
+          total += Cart.price[i];
+     }
+     return total;
+}
+
+$("checkout-button").on("click",function(){
+     
+});
