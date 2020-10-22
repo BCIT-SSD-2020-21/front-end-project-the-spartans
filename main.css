@@ -1,0 +1,65 @@
+/*aligning text to center*/
+figcaption{
+    text-align: center; 
+}
+
+/*box-sizing reset*/
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+/*base styles*/
+a {
+    text-decoration: none;
+    color: #96a75a;
+}
+
+body {
+    margin: 0;
+    background-color: #e9e7f0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #5e5aa7;
+}
+
+#wrapper {
+    width: 90%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+/*header*/
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    border-bottom: 1px solid lightgrey;
+}
+
+#icon-header {
+    display: flex;
+    flex-grow: 2;
+    justify-content: flex-end;
+}
+
+#icon-header .fa {
+    background-color: #efefef;
+    padding: 2%;
+    margin: 1%;
+    border-radius: 50%;
+}
+
+header .fa:hover {
+    color: #9ae0ec;
+}
+
+
+
+
+/*footer*/
