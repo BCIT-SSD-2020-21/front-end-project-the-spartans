@@ -6,6 +6,8 @@ function product(name, price,img,){
 };
 
 Cart =[
+     new product("iphone", 1200, "no img"),
+     new product("galaxy s20", 1000, "no img")
 ];
 
 localStorage.setItem("Cart",JSON.stringify(Cart));
@@ -23,27 +25,40 @@ $(".add2cart-btn").on("click", function addCart(){
      localStorage.setItem("Cart",JSON.stringify(Cart));
 });
 
-//display everything in cart
-function listCart(Cart){
-     for(var i = 0; i < Cart.length(); i++){
-          //use cart.imgUrl and cart.price to display and some html to format
-          var Cart = JSON.parse(localStorage.getItem("Cart"));
-
-          for (var i =0; i < Cart.length(); i++){
-
-          }
-     }
-};
-
 //calculate total of everything in cart
-function calcTotal(Cart){
+function calcTotal(){
      var Cart = JSON.parse(localStorage.getItem("Cart"));
      var total = 0;
-     for(var i = 0; i < Cart.length(); i++){
-          total += Cart.price[i];
+     for(var i = 0; i < Cart.length; i++){
+          total += Cart[i].price;
      }
      return total;
 };
+
+//display everything in cart
+//https://stackoverflow.com/questions/17773938/add-a-list-item-through-javascript
+function listCart(){
+     var Cart = JSON.parse(localStorage.getItem("Cart"));
+     for(var i = 0; i < Cart.length; i++){
+          //use cart.imgUrl and cart.price to display and some html to format
+          var list = document.getElementById('product-list');
+          var entry = document.createElement('li');
+          entry.appendChild(document.createTextNode(Cart[i].name));
+          list.appendChild(entry);
+
+          var list = document.getElementById('product-price');
+          var entry = document.createElement('li');
+          entry.appendChild(document.createTextNode(Cart[i].price));
+          list.appendChild(entry);
+     }
+     
+     document.getElementById('total').innerHTML = "Total: $" + calcTotal();
+
+};
+
+
+
+$(".cart-btn").on("click", listCart());
 
 $("checkout-button").on("click",function(){
      
