@@ -30,4 +30,4 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>COVID-19 link</li>
 <li>Social Media Links</li>
 <li>Company Logo</li>
-<img src ="Prototype for E-Commerce.png" alt="prototype image">
+<img src ="images/Prototype for E-Commerce.png" alt="prototype image">
