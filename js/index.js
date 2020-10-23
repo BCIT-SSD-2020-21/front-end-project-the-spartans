@@ -27,12 +27,17 @@ $(".add2cart-btn").on("click", function addCart(){
 function listCart(Cart){
      for(var i = 0; i < Cart.length(); i++){
           //use cart.imgUrl and cart.price to display and some html to format
+          var Cart = JSON.parse(localStorage.getItem("Cart"));
 
+          for (var i =0; i < Cart.length(); i++){
+
+          }
      }
 };
 
 //calculate total of everything in cart
 function calcTotal(Cart){
+     var Cart = JSON.parse(localStorage.getItem("Cart"));
      var total = 0;
      for(var i = 0; i < Cart.length(); i++){
           total += Cart.price[i];
