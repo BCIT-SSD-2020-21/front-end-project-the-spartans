@@ -199,8 +199,201 @@
                     -Every Mac comes equipped with a collection of powerful creativity and productivity apps, with dedicated apps for music, TV and podcasts, and smart new features in the apps you use every day
                     -The sleek wedge-shaped design is created from 100% recycled aluminum, making it the greenest Mac ever
 
-        1.2.3   
+        1.2.3   Microsoft Surface Laptop Go 12.4" Touchscreen Laptop -Ice Blue (Intel i5-1035G1/128GB SSD/8GB RAM)
+
+                    Get power, speed, performance, and style in a portable package with the Microsoft Surface Laptop Go. This laptop features a 12.45" PixelSense touchscreen display, a powerful 10th-generation Intel processor, 8GB of RAM, and all-day battery life. With Wi-Fi 6, Bluetooth 5.0, under-keyboard Omnisonic speakers, and more, you're set for all of your daily tasks and entertainment.
+
+                    -3.6GHz 10th-gen Intel Core i5-1035G1 quad-core processor and 8GB of LPDDR4X RAM deliver powerful computing performance in a compact package
+                    -128GB solid-state drive (SSD) gives you fast, reliable storage space for essential apps, files, and more
+                    -12.45" PixelSense touchscreen display with 1536 x 1024 resolution delivers gorgeous visuals to keep you productive and engaged in all your browsing, work, movies, TV shows, games, and beyond
+                    -Wi-Fi 6 (802.11 a/b/g/n/a/ax) is backwards compatible for high-speed connections to wireless networks
+                    -Bluetooth 5.0 pairs up with a variety of compatible wireless devices such as headphones, keyboards, mice, and more
+                    -Two USB 3.0 ports, USB-C port, Surface Connect, and an audio jack give you fast data transfer speeds, power delivery, wired audio options, and much more
+                    -5403mAh, 4-cell rechargeable lithium-ion battery delivers up to 13 hours of battery life on a single charge
+                    -Fast-charging option can boost the battery up to 80% in about an hour
+                    -720p HD webcam is perfect for video chats, meetings, and virtual get-togethers
+                    -Omnisonic speakers (hidden below the keyboard) and Dolby Audio pump out powerful, immersive sound
+                    -Full-size English-language keyboard with large precision trackpad lets you type in comfort all day
+                    -Miracast capability lets you cast your screen to compatible devices
+                    -Durable, cool-metal finish and light, portable design (at just 2.44 lb.) make this perfect to take with you wherever you go
+                    -Windows Hello sign-in adds a layer of convenient security
+                    -Windows 10 Home in S Mode (English-language version) lets you run your favourite apps and keep up on social media
+
+        1.2.4   Microsoft Surface Book 3 15" 2-in-1 Laptop - Platinum (Intel Ci7-1065G7/256GB SSD/16GB RAM) $2,799.99
+
+                    From work productivity to high-octane gaming, the Microsoft Surface Book 3 does it all. Powered by the quad-core Intel i7-1065G7 processor and 16GB of RAM, it boasts a 15" PixelSense touchscreen with incredible resolution for crisp visuals and clear text. This 2-in-1 laptop converts to studio or tablet mode, letting you handle a wide variety of tasks with ease.
+
+                    -1.3 GHz quad-core Intel Core i7-1065G7 processor (10th Gen) and 16GB of 3733Mhz LPDDR4x RAM gives you powerful fuel for all your games, apps, videos, and more
+                    -256GB solid-state drive (SSD) provides ample space to store your games, files, movies, music, photos, and more
+                    -NVIDIA GeForce GTX 1660 Ti with Max-Q Design and 6GB of GDDR6 graphics memory powers your most advanced games and ensures smooth performance
+                    -15" PixelSense touchscreen display with 3240 x 2160 native resolution and 260 ppi delivers a brilliant viewing experience
+                    -Wi-Fi 6 (802.11.ax compatible) and Bluetooth 5.0 offer versatile wireless connectivity options to a range of devices
+                    -Long-lasting battery life gives you up to 17.5 hours of usage, so it's perfect when you're on the go
+                    -One USB Type-C port with power delivery, 2 USB type-A ports, 2 Surface Connect ports, and a 3.5mm headphone jack make it easy to connect to an array of peripheral devices
+                    -Full-size SDXC card reader gives you even more options for memory cards and external storage
+                    -5MP front-facing and 8MP rear-facing 1080p HD cameras allow you to capture stunning photos and videos, while the addition of dual far-field studio mics helps you enjoy crystal-clear video chats
+                    -Powerful front-facing stereo speakers with Dolby Atmos audio technology gives you great sound for music, podcasts, movies, games, and much more
+                    -Convertible to laptop, studio, or tablet modes so you can handle a wide variety of tasks, from web browsing to work productivity
+
+        1.2.5   ASUS C523 15.6" Chromebook - Silver (Intel Dual-Core Celeron N3350/64GB eMMC/4GB RAM/Chrome OS) $279.99
+
+                    The ASUS C523 Chromebook is a high-performance system built for enhanced productivity. Running on Google's Chrome OS, this Chromebook is powered by a dual-core Celeron processor along with 4GB system memory and 64GB eMMC storage for impressively fast performance. You also get additional 100GB of Google Drive space to backup your files automatically.
+
+                    -Intel Dual-Core Celeron N3350 1.1 GHz processor (up to 2.5 GHz in turbo) along with 4GB LPDDR4 RAM deliver efficient performance
+                    -64GB eMMC storage lets you keep essential files and documents
+                    -15.6-inch HD display with a ultra-narrow NanoEdge bezel has a native resolution of 1366 x 768 and an anti-glare coating for crisp and clear viewing
+                    -Wi-Fi 802.11ac lets you connect this Chromebook to wireless networks
+                    -Bluetooth 4.0 technology offers easy connectivity with compatible devices making adding new accessories easy
+                    38 Whr, 2S1P, and 2-cell lithium ion battery provides long battery life
+                    -2 USB 3.1 Type A (Gen 1) ports, 2 USB 3.1 Type C (Gen 1) ports, and 1 headphone-out and audio-in combo jack for connecting peripherals
+                    -Micro SD (SDXC) card reader allows you to share files from portable devices and digital cameras
+                    -100GB of Google Drive cloud-storage space to provide automatic backup for your files included
+
+        1.2.6   Acer C720 11.6" Chromebook - Grey (Intel Celeron 2955U Dual-Core 1.4 GHz/2GB RAM/16GB SSD)
+
+                    Take on your daily computing tasks seamlessly with the Acer C720 Chromebook. The 11.6" diagonal anti-glare screen maintains vivid colours and details for all your photos, projects, and movies. Its Intel Celeron 2955U dual-core processor provides you with multitasking capabilities and a smooth user experience.
+
+                    - Dual-core Intel Celeron 2955U processor and 2GB of DDR3L SD RAM combine to deliver premium performance
+                    -16GB solid state drive (SSD) allows you to access multiple applications at once and offers speedy load times
+                    -11.6" diagonal HD IPS screen with 1366 x 768 native resolution and anti-glare offers clear-picture quality in vivid hues
+                    -Dual-band 802.11a/b/g/n Wi-Fi lets you connect this laptop to wireless networks with ease
+                    -Bluetooth 4.0 combo makes it easy to sync to compatible devices
+                    -Three-cell lithium-ion polymer battery offers up to 3.25 hours of work time on the go
+                    -USB 2.0, USB 3.0, and HDMI ports make it easy to connect to peripheral devices
+                    -HP TrueVision HD webcam and a digital microphone with echo cancellation and noise-suppression software allow you to make crystal-clear video and audio calls
+                    -Preinstalled with Chrome OS that provides access to an array of applications
+
+        1.2.7   ASUS ROG Strix G15 15.6" Gaming Laptop (Intel Core i7-10750H/512GB SSD/16GB RAM/GeForce GTX 1650 Ti) $1299.98
+
+                    Built for intense gaming, the ASUS ROG Strix G15 is rigged with a powerful Intel Core i7 processor, 16GB of RAM, and a cutting-edge GTX 1650 Ti GPU. It features a 15.6" Full HD display equipped with anti-glare and a 144Hz refresh rate for smooth and fluid motion visuals. The laptop also comes with a 512GB solid state drive and an RGB Auro backlit keyboard.
+
+                    -2.6GHz (up to 5GHz) Intel Core i7-10750H processor and 16GB of DDR4 RAM can easily run the latest AAA titles
+                    -512GB PCIe solid state drive (SSD) offers sufficient storage for your games, software, movies, and more
+                    -4GB NVIDIA GeForce GTX 1650 Ti is a graphics powerhouse that renders every detail so you can experience every game to its fullest
+                    -15.6" FHD screen with a native resolution of 1920 x 1080 delivers stunning visuals and is also equipped with anti-glare to relieve stress on your eyes
+                    -Integrated ethernet 10/100/1000 port and Wi-Fi 6 (Gig+) 2x2 let you access high-speed networks
+                    -Integrated Bluetooth 5.0 can pair with external input/output devices such as a wireless mouse and keyboard, Bluetooth speakers, headsets, and more
+                    -48Wh 3-cell lithium-ion battery packs ample battery life so you can delve into your favourite games on-the-go
+                    -USB 3.2 Gen 2 Type-C port, three USB 3.2 Gen 1 Type-A ports, HDMI display port, 3.5mm combo jack, and RJ-45 port let you connect a wide range of devices and peripherals such as your keyboard, mouse, external storage, smartphones, router, and more
+
+        1.2.8   ASUS TUF 15.6" Gaming Laptop - Fortress Grey (AMD Ryzen 9 4900H/512GB SSD/16GB RAM/GeForce RTX
 
 
+                    Experience the ultimate in gaming with this ASUS TUF 15.6" gaming laptop. Equipped with the powerful AMD Ryzen 9 processor, 16GB of RAM, and an NVIDIA GeForce RTX 2060 graphics card, this laptop can handle high-level gaming and multi-tasking efficiently. It meets MIL-STD-810H military standards to withstand accidental falls and knocks while on-the-go.
 
-1.3  Accessories 
+                    -3GHz AMD Ryzen 9 4900H octa-core processor with 16GB of DDR4 RAM ensure powerful performance required for heavy gaming and browsing activities
+                    -512GB PCIE solid state drive (SSD) provides quick and reliable storage for all your games, movies, music, photos, documents, and other important files
+                    -Dedicated NVIDIA GeForce RTX 2060 graphics with 6GB GDDR6 video memory renders ultra-smooth visuals without any lag or screen tearing
+                    -15.6" Full HD display featuring 1920x1080 native resolution and 144Hz refresh rate makes your favourite games and movies look realistic with rich picture quality
+                    -Integrated Wi-Fi 5 (802.11ac) 2x2 and 10/100/1000 ethernet port provide fast and flexible wireless/wired network access to the laptop
+                    -Bluetooth 5.0 connectivity lets you pair your Bluetooth-enabled devices like smartphones, wireless mice, and keyboards for seamless data transfers and clutter-free control
+                    -Built-in 3-cell battery with 48Wh of capacity helps on-the-go gaming without any interruptions
+                    -HDMI, USB 2.0 Type A, USB 3.2 Gen 2 Type-C, and two USB 3.2 Gen 1 Type-A ports, as well as headphone-out and audio-in combo and RJ45 LAN jacks, give you versatile device connectivity
+                    -Built-in 720p webcam lets you make video calls or connect face-to-face with your teammates while playing multi-player games online
+                    -VR-ready design supports virtual reality applications and devices (sold separately)
+                    -RGB backlit keyboard (one zone) enhances the visibility and appeal in dim light conditions
+
+        1.2.9   Acer Nitro 5 15.6" Gaming Laptop - Black (AMD Ryzen 5 4600H/512GB SSD/12GB RAM/GeForce GTX 1650)
+
+                    Play your favourite games the way they were meant to be with this Acer Nitro 5 17.3" gaming laptop. Backed by an AMD Ryzen 5 4600H processor, 12GB of DDR4 RAM, and an NVIDIA GeForce GTX 1650 graphics card with 4GB of dedicated video memory, it can handle large, graphically demanding games with ease.
+
+                    -3.0GHz AMD Ryzen 5 4600H processor and 12GB of DDR4 RAM smoothly run graphically rich games and editing software
+                    -512GB SSD provides enough storage space for saving software, applications, games, and more
+                    -NVIDIA GeForce GTX 1650 graphics card with 4GB of dedicated memory delivers realistic visuals
+                    -15.6" Full HD (1920 x 1080) IPS display with narrow bezel lets you enjoy videos and games with rich picture quality
+                    -Killer Ethernet E2600 RJ-45 port and Intel Wireless Wi-Fi 6 AX201 give you extremely high-speed wired and wireless internet connections
+                    -Bluetooth 5.0 lets you pair compatible wireless devices like speakers, headsets, and more
+                    -57.5Wh lithium-ion battery with up to 10 hours of battery life lets you enjoy movies and games without interruptions
+                    -One USB 3.2 Gen 2 port (featuring power-off USB charging), two USB 3.2 Gen 1 ports, a USB Type-C port, an HDMI 2.0 port, and a 3.5mm headphone/speaker jack allow for versatile wired connections
+                    -Windows 10 operating system features a user-friendly interface and solid security
+
+1.3  Accessories and components
+
+        1.3.1   Logitech MK360 Wireless Optical Keyboard & Mouse Combo $39.99
+
+                    With this beautifully designed and streamlined MK360 wireless optical keyboard & mouse combo from Logitech, you'll be typing, scolling, searching, and browing with ease and comfort. Both the keyboard and mouse offer excellent battery life and a solid wireless connection via a small unifying receiver plugged into a USB port.
+
+                    -This wireless combo features a compact keyboard and contoured mouse
+                    -Keyboard and mouse feature a reliable Logitech advanced 2.4GHz wireless connection thanks to a tiny unifying receiver that plugs into a USB port
+                    -Offers a very long battery life, with up to 3 years for the keyboard and up to 6 months for the mouse
+                    -The keyboard is 20% smaller than a standard keyboard, taking up less real estate on your desk
+                    -It features well-spaced keys and makes for quiet, comfortable typing
+                    -It also sports 6 hot keys, 12 programmable F-keys, instant access to email, internet, and more
+                    -The mouse is equipped with a high-definition optical sensor to provide cursor control and accurate tracking
+                    -Its contoured shape makes it comfortable to use, while its compact design allows you to easily take it anywhere
+
+        1.3.2   Logitech Wireless Wave Laser Keyboard & Mouse Combo (MK550) $45.99
+
+                    With an ergonomically designed Comfort Wave keyboard and a contoured laser mouse, the Logitech MK550 Wireless Wave Combo makes it easy to work and play for hours at a time.
+
+                    -The Wave design with Constant Curve layout guides hands into just the right position and conforms naturally to your fingers, helping you type with ease and confidence-without having to relearn typing on an unfamiliar layout
+                    -A cushioned palm rest helps position hands comfortably and properly on the keyboard-and offers a comfortable place to rest your palms when you're not typing
+                    -The mouse is a joy to hold and use thanks to the soft rubber side grips and laser tracking; it's smooth and precise on just about any surface so you can say good-bye to the frustrations of uncomfortable mice and tricky touch pads
+                    -The tiny Logitech Unifying receiver is small enough to stay in your laptop and connects both the included mouse and keyboard, so both are ready to use whenever you need them
+
+        1.3.3   Logitech Z150 2.0 Channel Computer Speaker System - Black $123.99
+
+                    The Logitech Z150 multimedia speakers deliver big sound from a small package. Perfect for connecting to your computer, tablet or smartphone, these speakers are equipped with 2" drivers for clear stereo sound for your movies, music and games. Power and volume controls are integrated into the knob for quick and easy adjustments.
+
+                    -Two 2" drivers deliver a total of 6 watts of rich stereo sound and deep bass
+                    -3.5mm audio input and auxiliary line let you play tunes from multiple devices at the same time
+                    -Built-in power and volume controls make it quick and easy to fine-tune your audio
+                    -Headphone jack lets you plug in your headphones for your own private listening session
+
+        1.3.4   Bose Companion 2 Series III Multimedia Speakers $199.98
+
+                    The Bose Companion 2 III Multimedia Speaker is perfect for music, games, videos, and streaming media. Enjoy premium sound quality that delivers a significant performance upgrade over your computer's original speakers and most conventional speakers.
+
+                    -Engineered with proprietary digital signal processing to improve performance
+                    -Delivers crisp, clear audio at all listening levels
+                    -Exclusive TrueSpace stereo digital signal processing reproduces lifelike sound from just two speakers
+                    -Delivers a significant performance upgrade over your computer's original speakers and most conventional speakers
+                    -Dual inputs provide easy connections to your computer and additional audio sources
+                    -Volume control and headphone jack are conveniently within reach on the front of the right speaker
+                    -Sleek, elegant design
+
+        1.3.5   Logitech Wireless Trackball $79.99
+
+                    The Logitech Wireless Trackball M570 gives you a different kind of comfort. It stays in one place and supports your hand to let you work all day with ease. Stop chasing a mouse around. Your trackball stays in one place and puts control under your thumb, so you don't have to move your arm to move your cursor.
+
+                    The sculpted shape supports your hand for comfortable control all day long. This trackball includes the Logitech Unifying receiver. The tiny wireless receiver stays in your laptop, so there's no need to unplug it when you move around. Plus, you can easily add a compatible keyboard, number pad or mouse without the hassle of multiple USB receivers. You can go for up to 18 months without changing batteries* - and, the convenient battery indicator helps to ensure that you'll never be caught off guard. *Battery life may vary based on user and computing conditions. You get precise cursor control wherever you want to use your trackball. Hard tables, comfy sofas and lumpy beds are all no problem for the M570. The integrated scroll wheel and easy-to-reach Back/Forward buttons make control simple, whether you're Web surfing on a laptop or navigating a home-theater PC.
+
+        1.3.6   Dual Monitor Stand, Heavy Duty Deluxe Gas Spring Mount Arms with for Two 10''-27'' LED/LCD/PDP
+
+                    Heavy duty solid construction looks and works great; gas spring arms make installing and changing your monitors easy! Weight capacity: from 1.5kg to 5.5kg (up to 12 lbs) Fits standard monitor mount pattern (VESA 75x75 and 100x100) Fits monitors from 13" to 27", lets you adjust them for maximum ergonomic benefits to avoid back, eye and neck strain. Tilt 90 degree up and 90 degree down and Swivel Left/right: 360 degree.
+
+                    Adjust your monitors any way you want. Set up your monitors properly for ergonomic benefits. Increase viewing comfort, help reduce eye, back and neck strain. Achieve a more ergonomic and comfortable viewing experience. Suitable for most desks with adjustable clamp height. Cable management feature routes cables under the arm, out of the way. Fits sizes of monitors: 13-27 inches, as long as they are VESA compatible (standard bolt pattern on the back of the monitor)
+
+        1.3.7   Razer Kraken Ultimate Gaming Headset with Microphone  $169.89
+
+                    Gain a competitive edge in your online multiplayer games with the Razer Kraken Ultimate gaming headset. It features spatially accurate THX audio that surpasses 7.1 surround sound to give you realistic audio depth and an immersive soundscape. The active noise cancelling microphone is capable of identifying and suppressing noise while you speak.
+
+                    -Over-ear headset is designed to gently cushion your head and ears as you embark on your gaming marathons
+                    -Wired gaming headset is equipped with a 1.3-metre cord and can be plugged into a standard 3.5mm jack
+                    -50mm neodymium drivers are custom-tuned to generate clear distinct sound and punchy bass
+                    -THX spatial audio transcends 7.1 surround sound and enhances your perception of surroundings with its realistic audio depth
+                    -Reproduces every auditory detail for an immersive soundscape, so you can hear hushed footsteps and booming explosions equally
+                    -Active noise cancelling technology on the microphone suppresses background noise and delivers your ultra-clear voice to your squad
+                    -Razer Chroma RGB Underglow Lighting boasts an array of 16.8 million hues to customise your headset with your favourite colours
+                    -Cooling gel-infused ear cushions prevent build-up of heat while softly clasping around your head
+                    -Aluminum bauxite frame on a stainless steel headband enables this headset to be as light as a feather, so it won't weigh down on your head as you play for hours
+
+        1.3.8.  Razer Naga Trinity 16000 DPI Optical Gaming Mouse $109.89
+
+                    Customize your gaming experience to stay ahead of the competition with the Razer Naga Trinity optical gaming mouse. Powered by Razer Chroma, this gaming mouse is designed to give you the edge in MOBA/MMO gameplay, and you can configure it for everything from weapons to build customisations.
+
+                    -Enhanced right-handed form factor to suit players that control a computer mouse with their right hands
+                    -16,000 DPI 5G optical sensor reacts to the slightest movement to enhance gameplay
+                    -3 interchangeable side plates with 2, 7, and 12-button configurations for customizable gameplay that will give you the edge in fights to the death
+                    -Powered by Razer Chroma and featuring award-winning Razer mechanical switches, this mouse provides the edge you need in MOBA/MMO gameplay
+
+        1.3.9   Logitech C525 HD Webcam $69.99
+
+                    For chatting with family across the world or taking selfies for Facebook, the Logitech HD Webcam C525 captures clear video and picture. It records video in HD 720p and takes beautiful still images in 8MP. The integrated microphone features Logitech RightSound technology, which ensures the sound of your voice comes out natural and noise-free on the other end.
+
+                    -HD 720p video with autofocus: Make video calls through your favourite IM or record video and upload it to social media sites
+                    -Built-in microphone with Logitech RightSound technology: Delivers your natural voice and isolates ambient noise so you're heard clearly on the other end of the line
+                    -8MP still image resolution: Take stunning photos and self-portraits
+                    -Logitech Fluid Crystal technology: Delivers smoother video, sharper picture, richer colour and clearer sound (included software installation required)
+                    -Fold-and-go, swivelling design: Fold up the webcam and take it with you anywhere, and swivel it at your ideal angle for video chatting
+                    -Universal clip: Fits laptops, and LCD or CRT monitors
