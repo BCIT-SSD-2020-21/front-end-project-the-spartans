@@ -37,7 +37,7 @@
                 </i>
                   <span>My Account</span>
                 </a>
-                <a href="#"><i class="fas fa-shopping-cart" aria-hidden ="true" style="font-size: 30px;" id="logo2"></i>
+                <a href="checkout.html" class="cart-btn"><i class="fas fa-shopping-cart" aria-hidden ="true" style="font-size: 30px;" id="logo2"></i>
                   <span>My Cart</span>
                 </a>  
             </div>
@@ -55,7 +55,7 @@
                 <li><a href = "Products.html">Products</a></li>
                 <li><a href = "#">Services</a></li>
                 <li><a href = "#">Gallery</a></li>
-                <li><a href = "#">Contact</a></li>
+                <li><a href = "Contact.html">Contact</a></li>
               </ul>
           </div>
         </nav>
@@ -75,7 +75,7 @@
                 <p style = "color: black;" id = "product-name">Pavilion Desktop PC</p>
                 <p style="color: black; font-size: 15px;">Item #T6573ZY37</p>
                 <i class="fas fa-star" style="font-size: 10px;"></i><i class="fas fa-star" style="font-size: 10px;"></i><i class="fas fa-star" style="font-size: 10px;"></i><i class="fas fa-star-half" style="font-size: 10px;"></i>&nbsp; 3.5(Customer Ratings)<br><br>
-                <b style="font-size: 22px;">Our Price</b><br><b style="font-size: xx-large;" id = "product-price">$799.99</b>
+                <b style="font-size: 22px;">Our Price</b><br><b style="font-size: xx-large;" id = "product-price" data-price="799.99">$799.99</b>
                 <div class="card" style="width: 30rem; height: 12rem;">
                     <div class="card-body">
                       <h5 class="card-title" style = "text-align: left; color: black;">Special Offer:</h5><hr>
@@ -86,7 +86,7 @@
                   <p style = "font-size: 20px; color: black;"><b>Online Availability:</b></p>
                   In stock
                   <p style = "font-size: 20px; color: black;"><b>Quantity:</b></p>
-                  <button class = "btn btn-primary" style ="width: 12rem;">ADD TO CART</button><br><br>
+                  <button class = "btn btn-primary add2cart-btn" style ="width: 12rem;">ADD TO CART</button><br><br>
                   <div class="form-check">
                     <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" checked>
                     <label class="form-check-label" for="exampleRadios1">
@@ -161,7 +161,7 @@
   <a href = "#" style="font-size: 18px; color: grey;">About Us</a><br><br>
   <a href = "#" style="font-size: 18px; color: grey;">Careers</a><br><br>
   <a href = "#" style="font-size: 18px; color: grey;">Privacy Policy</a><br><br>
-  <a href = "#" style="font-size: 18px; color: grey;">Contact Us</a>
+  <a href = "Contact.html" style="font-size: 18px; color: grey;">Contact Us</a>
 </div>
 <div class = "Column" id = "helpcolumn">
   <h4 style = "color: green;">General</h4>
@@ -192,6 +192,7 @@
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script src="js/index.js"></script>
 
     <!-- Option 2: jQuery, Popper.js, and Bootstrap JS
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
