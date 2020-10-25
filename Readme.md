@@ -29,5 +29,26 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>FAQ's</li>
 <li>COVID-19 link</li>
 <li>Social Media Links</li>
-<li>Company Logo</li>
-<img src ="images/Prototype for E-Commerce.png" alt="prototype image">
+<li>Company Logo</li><br>
+<img src ="images/Prototype for E-Commerce.png" alt="prototype image"><br>
+<h4> We have added the functionality in the navigation menu in following: </h4>
+<li>Home</li>
+<li>Products</li>
+<li>Contact (to get the contact page)</li>
+<li>My Account logo to visit the Sign In and Sign Up pages respectively</li>
+<li>Products</li>
+<h4> Added the functionality to see specific products under side nav :</h4>
+<b>Computers</b>
+  <li>Desktops</li>
+  <p> Under the Desktops categories, the first 4 rows of cards are accessible to go further on thier specific product page to check the ADD TO CART functionality</p>
+ <li>Laptops</li>
+ <p>Under the laptops categories, the first 4 rows of cards are accessible to check further for the ADD TO CART functionality</p>
+ <li>Computer Accessories</li>
+<b>Mobile Phones</b>
+  <li>iPhone</li>
+<li>Android</li>
+<b>Cameras</b>
+ <li>DSLR Cameras</li>
+ <li>Mirrorless</li>
+<b>Gaming</b>
+  <li>Console</li>
