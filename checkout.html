@@ -11,7 +11,7 @@
 <link rel = "stylesheet" href = "css/main.css">
 <link rel = "stylesheet" href = "css/checkout.css">
 </head>
-<body>
+<body onload="listCart();">
 <!-- header section for nav, brnad-logo -->
 
   <header>
@@ -34,7 +34,7 @@
             </i>
               <span>My Account</span>
             </a>
-            <a href="checkout.html"><i class="fas fa-shopping-cart" aria-hidden ="true" style="font-size: 30px;" id="logo2"></i>
+            <a href="checkout.html" class="cart-btn"><i class="fas fa-shopping-cart" aria-hidden ="true" style="font-size: 30px;" id="logo2"></i>
               <span>My Cart</span>
             </a>  
         </div>
@@ -64,14 +64,22 @@
           <div class="container">
                <!--use a flexbox and split it left(list) and right(price) make sure they match padding and margin to look uniform as one list-->
                <!-- or a single list and just format it so that the prices are aligned right and subtotal be on the very bottom like amazon-->
-               <ul class="product-list">
-                    <li id="item1"> </li>
+               <ul id="product-list">
+                   
                </ul>
-               <ul class="product-price">
-                    <li id="price1"> </li>
+               <ul id="product-price">
+                   
                </ul>
 
+               <p id="total"></p>
           </div>
+
+          <div>
+               <button class="checkout-button">checkout</button>
+          </div>
+          <div>
+            <button class="clear-button" onclick="clearCart()">clear cart</button>
+       </div>
      </main>
      
      <!-- footer section with the queries and social media links-->
