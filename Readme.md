@@ -38,17 +38,15 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>My Account logo to visit the Sign In and Sign Up pages respectively</li>
 <li>Products</li>
 <h4> Added the functionality to see specific products under side nav :</h4>
-<ol>Computers</ol>
+<b>Computers</b>
   <li>Desktops</li>
   <p> Under the Desktops categories, the first 4 rows of cards are accessible to go further on thier specific product page to check the ADD TO CART functionality</p>
  <li>Laptops</li>
  <p>Under the laptops categories, the first 4 rows of cards are accessible to check further for the ADD TO CART functionality</p>
  <li>Computer Accessories</li>
-<li>Products</li>
-<li>Products</li>
-<li>Products</li>
-<li>Products</li>
-<li>Products</li>
-<li>Products</li>
-<li>Products</li>
-<li>Products</li>
+<b>Mobile Phones</b>
+  <li>iPhone</li>
+<li>Android</li>
+<b>Cameras</b>
+ <li>DSLR Cameras</li>
+ <li>Mirrorless</li>
