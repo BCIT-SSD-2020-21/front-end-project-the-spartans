@@ -50,3 +50,5 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <b>Cameras</b>
  <li>DSLR Cameras</li>
  <li>Mirrorless</li>
+<b>Gaming</b>
+  <li>Console</li>
