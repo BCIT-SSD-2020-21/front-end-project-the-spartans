@@ -31,25 +31,10 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>Social Media Links</li>
 <li>Company Logo</li><br>
 <img src ="images/Prototype for E-Commerce.png" alt="prototype image"><br>
-<h4> We have added the functionality in the navigation menu in following: </h4>
-<li>Home</li>
-<li>Products</li>
-<li>Contact (to get the contact page)</li>
-<li>My Account logo to visit the Sign In and Sign Up pages respectively</li>
-<li>Products</li>
-<h4> Added the functionality to see specific products under side nav :</h4>
- <h6>If we go to the product page, then there will be one carousel and 2 rows for cards(4 cards in each row). The all cards have "Continue" button functionality which will take you to the individual products pages for the ADD TO CART functionality</h6>
-<b>Computers</b>
-  <li>Desktops</li>
-  <p> Under the Desktops categories, the first 4 rows of cards are accessible to go further on thier specific product page to check the ADD TO CART functionality</p>
- <li>Laptops</li>
- <p>Under the laptops categories, the first 4 rows of cards are accessible to check further for the ADD TO CART functionality</p>
- <li>Computer Accessories</li>
-<b>Mobile Phones</b>
-  <li>iPhone</li>
-<li>Android</li>
-<b>Cameras</b>
- <li>DSLR Cameras</li>
- <li>Mirrorless</li>
-<b>Gaming</b>
-  <li>Console</li>
+<h4>In order to check the ADD TO CART funtionality, please follow: </h4>
+<li>Desktop under Computer category. There will be 4 cards in the first row under Desktop section in which by clicking "Continue" it will take you to the specifications of products where you can click to the ADD TO CART button and then click on the MY CART in navigation beside the MY ACCOUNT, from here you can check the products added to the cart with their name and price.</li>
+<li> The first row of 4 cards under Desktop menu is working for the ADD TO CART, rest is non functional</li>
+<li>Same goes with Laptops under Computer category. There will be 4 cards in the first row under Laptops section in which by clicking "Continue" it will take you to the specifications of products where you can click to the ADD TO CART button and then click on the MY CART in navigation beside the MY ACCOUNT, from here you can check the products added to the cart with their name and price.</li>
+<li>The first row of 4 cards under Laptop menu is working for the ADD TO CART, rest is non functional</li>
+<li>In total there are 8 cards added with the ADD TO CART functionality</li>
+<li>Rest of the categories under the side nav only have the cards with product images and name on it, there is no functionality on those categories</li>
