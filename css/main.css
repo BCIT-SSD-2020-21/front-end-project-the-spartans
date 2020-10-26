@@ -147,7 +147,7 @@ nav{
 .sidenav{
     margin: 5px;
     padding: 5px;
-    height: 62%;
+    height: 60%;
     width: 250px;
     position: absolute;
     background-color: #f1f1f1;
@@ -194,6 +194,7 @@ nav{
 #productsmain{
     margin-left: 275px;
     margin-top: 44px;
+    padding-bottom: 115px;
     background-color: white;
 }
 
