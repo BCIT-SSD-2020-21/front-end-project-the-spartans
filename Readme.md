@@ -38,6 +38,7 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>My Account logo to visit the Sign In and Sign Up pages respectively</li>
 <li>Products</li>
 <h4> Added the functionality to see specific products under side nav :</h4>
+ <h6>If we go to the product page, then there will be one carousel and 2 rows for cards(4 cards in each row). The all cards have "Continue" button functionality which will take you to the individual products pages for the ADD TO CART functionality</h6>
 <b>Computers</b>
   <li>Desktops</li>
   <p> Under the Desktops categories, the first 4 rows of cards are accessible to go further on thier specific product page to check the ADD TO CART functionality</p>
