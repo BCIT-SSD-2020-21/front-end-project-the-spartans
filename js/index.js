@@ -68,10 +68,13 @@ function listCart() {
                list.appendChild(entry);
                list.appendChild(removeButton);
 
+               $("button").addClass("remove-btn");
                $("button").addClass("remove-btn" + i);
                for (j = i - 1; j >= 0; j--) {
                     $(".remove-btn" + j).removeClass("remove-btn" + i);
                }
+               $(".checkout-button").removeClass("remove-btn");
+               $(".clear-button").removeClass("remove-btn");
                $(".checkout-button").removeClass("remove-btn" + i);
                $(".clear-button").removeClass("remove-btn" + i);
 
