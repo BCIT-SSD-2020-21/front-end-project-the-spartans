@@ -87,7 +87,6 @@ Gaming
 
         6.3.2   Logitech Pro 16000 DPI Wireless Optical Gaming Mouse $149.99
 
-
         6.3.3   Seagate 1TB Storage Expansion Card for Xbox Series X and Series S $299.99
 
 

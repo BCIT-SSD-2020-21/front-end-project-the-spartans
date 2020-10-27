@@ -1,0 +1,72 @@
+#hamburger-toggle{display: none;}
+
+.hamburger{
+    width: 30px; height: 30px;
+    display: none;
+    justify-content: left;
+    align-items: flex-start;
+    cursor: pointer;
+    position: absolute;
+    left: 25px;
+    z-index: 101;
+}
+
+.hamburger .bar{
+    display: inline-block;
+    width: 30px; height: 2px;
+    background-color: #fff;
+    position: relative;
+    transition: all 0.3s;
+}
+
+.hamburger .bar::before, .hamburger .bar::after{
+    content: "";
+    position: absolute;
+    width: 100%; height: 100%;
+    background-color: #fff;
+    transition: all 0.3s;
+}
+
+.hamburger .bar::before{ transform: translateY(-10px);}
+.hamburger .bar::after{ transform: translateY(10px);}
+
+@media (max-width: 600px){
+    .nav-list{
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        background-color: cornflowerblue;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        transform: translateX(-100%);
+        transition: transform 0.3s;
+        z-index: 100;
+    }
+
+.nav-list li{margin: 10px 0;}
+
+.nav-list li a{
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 20px;
+    transition: all 0.3s;
+}
+
+.nav-list li a:hover{
+    background-color: #fff;
+    color: cornflowerblue;
+    transform: translateY(-10px);
+}
+
+.hamburger{
+    display: flex;
+    position: fixed;
+    z-index: 101;
+}
+
+#hamburger-toggle:checked ~ .nav-list{transform: none;}
+#hamburger-toggle:checked ~ .hamburger .bar::before{transform: rotate(45deg);}
+#hamburger-toggle:checked ~ .hamburger .bar{ background-color: transparent;}
+#hamburger-toggle:checked ~ .hamburger .bar::after{transform: rotate(-45deg);}
+}
