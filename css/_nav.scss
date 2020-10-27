@@ -1,0 +1,145 @@
+nav{
+    padding: 20px 25px;
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: midnightblue;
+    font-size: 30px;
+}
+
+.navbar-brand img{
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+}
+
+.navbar-brand strong{
+    padding-left: 10px;
+    padding-right: 20px;
+    margin-right: auto;
+}
+
+.search{
+    align-self: center;
+    padding-left: 20%;
+    padding-right: 3%;
+}
+
+.search input{
+    padding-left: 5%;
+    padding-right: 2%px;
+}
+
+ #logo1{
+    justify-content: right;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+#logo2{
+    margin-left: 4%;
+    padding-left: 4%;
+    padding-right: 1%;
+}
+ 
+.nav-list{
+    display: flex;
+    list-style: none;
+}
+
+.nav-list li{
+    margin-left: 30px;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: px;
+    color: #fff;
+}
+
+
+
+@media (max-width: 600px){
+    .nav-list{
+        position: fixed;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        background-color: cornflowerblue;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        transform: translateX(-100%);
+        transition: transform 0.3s;
+        z-index: 100;
+    }
+}
+
+.nav-list li{margin: 10px 0;}
+
+.nav-list li a{
+    display: inline-block;
+    font-size: 20px;
+    padding: 15px 20px;
+    transition: all 0.3s;
+}
+
+.nav-list li a:hover{
+    background-color: #fff;
+    color: cornflowerblue;
+    transform: translateY(-10px);
+}
+
+.sidenav{
+    margin: 5px;
+    padding: 5px;
+    height: 60%;
+    width: 250px;
+    position: absolute;
+    background-color: #f1f1f1;
+    overflow-x: hidden;
+}
+
+.sidenav a, .dropdown-btn{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #818181;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    outline:none;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.sidebar a:hover:not(.active){
+    background-color: #555;
+    color: darkgray;
+}
+
+.dropdown-container{
+    display: none;
+    position: absolute;
+    background-color: thistle;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+
+.active{
+    background-color: deepskyblue;
+    color: white;
+}
+
+.fa-caret-down{
+    padding-left: 20px;
+    padding-right: 8px;
+}
