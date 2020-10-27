@@ -26,38 +26,44 @@
   grid-column: 3/3;
   margin: 10px 0px;
   border: 5px;
-  border-radius: 10px; }
+  border-radius: 10px;
+  color: #ffffff;
+  background-color: 7BFF; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000338}}
 #total {
   color: black; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000342}}
 .clear-button {
   padding: 10px;
   border: 5px;
-  border-radius: 10px; }
+  border-radius: 10px;
+  color: #ffffff;
+  background-color: 7BFF; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000350}}
 .checkout-input {
   color: #fefefe;
   padding-left: 0px 5px;
   border: 10px;
   margin: 0px 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000357}}
 .checkout-form {
   background-color: #212529; }
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000359}}
   .checkout-form h2 {
     color: #fefefe; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/kchan\/Downloads\/BCIT-SSD\/FrontEnd-Essentials\/Project\/front-end-project-the-spartans\/sass\/checkout\.scss}line{font-family:\0000364}}
 .checkout-button {
   margin: 10px;
   padding: 10px;
   text-align: right;
   border: 5px;
-  border-radius: 10px; }
+  border-radius: 10px;
+  color: #ffffff;
+  background-color: 7BFF; }
 
 /*# sourceMappingURL=checkout.css.map */
