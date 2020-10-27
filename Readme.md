@@ -38,3 +38,7 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>The first row of 4 cards under Laptop menu is working for the ADD TO CART, rest is non functional</li>
 <li>In total there are 8 cards added with the ADD TO CART functionality</li>
 <li>Rest of the categories under the side nav only have the cards with product images and name on it, there is no functionality on those categories</li>
+<br><h4>The following was postponed for future development due to time constraints:</h4>
+<li> 'SERVICES' and 'GALLERY' links in the main navbar</li>
+<li> 'About us' , 'Carreers', 'Privacy Policy' links in the 'Company' subsection of the footer</li>
+<li> 'Track your order' , 'FAQ', 'Submit your query' links in the 'General' subsection of the footer</li>
