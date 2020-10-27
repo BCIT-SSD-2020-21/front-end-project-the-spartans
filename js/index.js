@@ -75,8 +75,10 @@ function listCart() {
                }
                $(".checkout-button").removeClass("remove-btn");
                $(".clear-button").removeClass("remove-btn");
+               $(".btn-primary").removeClass("remove-btn");
                $(".checkout-button").removeClass("remove-btn" + i);
                $(".clear-button").removeClass("remove-btn" + i);
+               $(".btn-primary").removeClass("remove-btn" + i);
 
                $(".remove-btn" + i).on("click", function (i) {
                     Cart.splice(i, 1);

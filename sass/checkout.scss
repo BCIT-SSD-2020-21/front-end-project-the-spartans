@@ -1,4 +1,6 @@
 @import "confirmation";
+@import "variables";
+
 
 .container{
      display: grid;
@@ -23,29 +25,43 @@
 }
 
 .remove-btn{
-     padding: 0px 5px;
+     padding: $padding-space;
      align-self: grid-column-end;
      grid-column: 3/3;
      margin: 10px 0px;
+     border: $button-border;
+     border-radius: 10px;
 }
-
 
 #total{
      color: black;
 }
 
 .clear-button{
-     padding: 0px 5px;
+     padding: $button-padding;
+     border: $button-border;
+     border-radius: 10px;
 }
 
 .checkout-input{
-     padding-left: 10px;
+     color: #fefefe;
+     padding-left: $padding-space;
      border: 10px;
      margin: 0px 10px;
 }
 
+.checkout-form{
+     background-color: #212529;
+     h2{
+          color: #fefefe;
+     }
+}
+
 .checkout-button{
      margin: 10px;
-     padding: 0px 5px;
+     padding: $button-padding;
+     text-align: right;
+     border: $button-border;
+     border-radius: 10px;
 }
 
