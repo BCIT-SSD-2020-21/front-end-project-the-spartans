@@ -28,7 +28,12 @@ const product = [
     { name: 'Canon EOS RP'},   
     { name: 'Sony A6000'},
     { name: 'Sony a5100'},
-    { name: 'Sony a6400<'}
+    { name: 'Sony a6400'},
+    { name: 'Mario Kart'},
+    { name: 'Call of Duty'},   
+    { name: 'Madden NFL 21'},
+    { name: 'Spider-Man'},
+    { name: 'Cyberpunk 2077'}
 
 ];
 
