@@ -7,7 +7,28 @@ const product = [
     { name: 'Aspire XC-866'},
     { name: 'Acer Nitro 50'},
     { name: 'Alienware'},
-    { name: 'ASUS Strix PC'}
+    { name: 'ASUS Strix PC'},
+    { name: 'Canon EOS T7'},
+    { name: 'Canon SL3'},
+    { name: 'Nikon D3500'},
+    { name: 'Canon EOS T7i'},
+    { name: 'Canon EOS 6D'},
+    { name: 'Nikon D5600'},
+    { name: 'Canon 90D'},
+    { name: 'Nikon D750'},
+    { name: 'Canon EF 50mm f/1.8'},
+    { name: 'Canon EF-S 55-250mm'},
+    { name: 'Canon EF-S 24mm'},
+    { name: 'Sony 50mm f/1.8'},
+    { name: 'Nikon AF-S 50MM F/1.8G'},
+    { name: 'Nikon 70-300mm'},
+    { name: 'Canon 10-18mm'},
+    { name: 'Fujifilm X-T200'},
+    { name: 'Sony a7 III'},
+    { name: 'Canon EOS RP'},   
+    { name: 'Sony A6000'},
+    { name: 'Sony a5100'},
+    { name: 'Sony a6400<'}
 
 ];
 
