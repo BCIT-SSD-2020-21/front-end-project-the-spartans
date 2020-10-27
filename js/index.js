@@ -68,17 +68,25 @@ function listCart() {
                list.appendChild(entry);
                list.appendChild(removeButton);
 
+<<<<<<< HEAD
+=======
                $("button").addClass("remove-btn");
+>>>>>>> main
                $("button").addClass("remove-btn" + i);
                for (j = i - 1; j >= 0; j--) {
                     $(".remove-btn" + j).removeClass("remove-btn" + i);
                }
+<<<<<<< HEAD
+               $(".checkout-button").removeClass("remove-btn" + i);
+               $(".clear-button").removeClass("remove-btn" + i);
+=======
                $(".checkout-button").removeClass("remove-btn");
                $(".clear-button").removeClass("remove-btn");
                $(".btn-primary").removeClass("remove-btn");
                $(".checkout-button").removeClass("remove-btn" + i);
                $(".clear-button").removeClass("remove-btn" + i);
                $(".btn-primary").removeClass("remove-btn" + i);
+>>>>>>> main
 
                $(".remove-btn" + i).on("click", function (i) {
                     Cart.splice(i, 1);
@@ -91,6 +99,12 @@ function listCart() {
 };
 //validates credit card input
 function validateCard(cardInput) {
+<<<<<<< HEAD
+     var re = /^(?:4[0-9]{12}(?:[0-9]{3})?| (?:5[1-5][0-9]{2} | 222[1-9]|22[3-9][0-9]|2[3-6][0-9]{2}|27[01][0-9]|2720)[0-9]{12} | 3[47][0-9]{13} | 3(?:0[0-5]|[68][0-9])[0-9]{11} | 6(?:011|5[0-9]{2})[0-9]{12} | (?:2131|1800|35\d{3})\d{11})$/;
+     var OK = re.exec(cardInput);
+     if (!OK) {
+          alert(cardInput + "isn't a valid credit card number!");
+=======
      //var re = /^(?:4[0-9]{12}(?:[0-9]{3})?| (?:5[1-5][0-9]{2} | 222[1-9]|22[3-9][0-9]|2[3-6][0-9]{2}|27[01][0-9]|2720)[0-9]{12} | 3[47][0-9]{13} | 3(?:0[0-5]|[68][0-9])[0-9]{11} | 6(?:011|5[0-9]{2})[0-9]{12} | (?:2131|1800|35\d{3})\d{11})$/;
 
      var re = /^(?:(4[0-9]{12}(?:[0-9]{3})?)|(5[1-5][0-9]{14})|(6(?:011|5[0-9]{2})[0-9]{12})|(3[47][0-9]{13})|(3(?:0[0-5]|[68][0-9])[0-9]{11})|((?:2131|1800|35[0-9]{3})[0-9]{11}))$/;
@@ -98,6 +112,7 @@ function validateCard(cardInput) {
      var OK = re.exec(cardInput);
      if (!OK) {
           alert(cardInput + " isn't a valid credit card number!");
+>>>>>>> main
           localStorage.removeItem("Customer");
      } else {
           location.href = "confirmation.html";

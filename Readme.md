@@ -31,6 +31,29 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li>Social Media Links</li>
 <li>Company Logo</li><br>
 <img src ="images/Prototype for E-Commerce.png" alt="prototype image"><br>
+<<<<<<< HEAD
+<h4> We have added the functionality in the navigation menu in following: </h4>
+<li>Home</li>
+<li>Products</li>
+<li>Contact (to get the contact page)</li>
+<li>My Account logo to visit the Sign In and Sign Up pages respectively</li>
+<li>Products</li>
+<h4> Added the functionality to see specific products under side nav :</h4>
+<b>Computers</b>
+  <li>Desktops</li>
+  <p> Under the Desktops categories, the first 4 rows of cards are accessible to go further on thier specific product page to check the ADD TO CART functionality</p>
+ <li>Laptops</li>
+ <p>Under the laptops categories, the first 4 rows of cards are accessible to check further for the ADD TO CART functionality</p>
+ <li>Computer Accessories</li>
+<b>Mobile Phones</b>
+  <li>iPhone</li>
+<li>Android</li>
+<b>Cameras</b>
+ <li>DSLR Cameras</li>
+ <li>Mirrorless</li>
+<b>Gaming</b>
+  <li>Console</li>
+=======
 <h4>In order to check the ADD TO CART funtionality, please follow: </h4>
 <li>Desktop under Computer category. There will be 4 cards in the first row under Desktop section in which by clicking "Continue" it will take you to the specifications of products where you can click to the ADD TO CART button and then click on the MY CART in navigation beside the MY ACCOUNT, from here you can check the products added to the cart with their name and price.</li>
 <li> The first row of 4 cards under Desktop menu is working for the ADD TO CART, rest is non functional</li>
@@ -42,3 +65,4 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <li> 'SERVICES' and 'GALLERY' links in the main navbar</li>
 <li> 'About us' , 'Carreers', 'Privacy Policy' links in the 'Company' subsection of the footer</li>
 <li> 'Track your order' , 'FAQ', 'Submit your query' links in the 'General' subsection of the footer</li>
+>>>>>>> main
