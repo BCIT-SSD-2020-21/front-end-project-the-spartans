@@ -35,6 +35,7 @@ This webpage is an e-commerce site selling electronics items. In the website, th
 <h4> We have added the functionality in the navigation menu in following: </h4>
 <li>Home</li>
 <li>Products</li>
+<li>Search for product</>
 <li>Contact (to get the contact page)</li>
 <li>My Account logo to visit the Sign In and Sign Up pages respectively</li>
 <li>Products</li>
